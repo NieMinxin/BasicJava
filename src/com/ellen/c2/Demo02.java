@@ -6,6 +6,9 @@ public class Demo02 {
         System.out.println("one");
     }
 
+    Demo02(){
+        System.out.println("Gouzaoqi");
+    }
     {
         System.out.println("two");
     }

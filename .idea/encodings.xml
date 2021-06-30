@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/com/ellen/c1/Cache.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/ellen/c2/ConstructCode.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/ellen/c2/Demo01.java" charset="GBK" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/ellen/c3/DeepCopy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ellen/c3/Serialization.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ellen/c3/Student.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ellen/c4/ArrayCpoy.java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
